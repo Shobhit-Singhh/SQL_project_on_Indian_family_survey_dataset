@@ -1,4 +1,5 @@
-# Family Health Analysis Project
+# Family Health Analysis Project<img width="980" alt="Screenshot 2023-07-31 at 8 39 34 AM" src="https://github.com/Shobhit-Singhh/SQL_project_on_Indian_family_survey_dataset/assets/117563572/fa783622-e98e-4cb9-a4ad-b28612559d2e">
+
 
 This project involves analyzing health-related data of families, focusing on various conditions, diseases, and amenities.
 
